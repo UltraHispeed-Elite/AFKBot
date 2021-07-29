@@ -1,0 +1,2 @@
+# AFKBot
+afk bot
